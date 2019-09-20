@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>翻译 on Even - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/categories/%E7%BF%BB%E8%AF%91/</link>
+    <description>Recent content in 翻译 on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 05 Aug 2017 00:10:11 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/%E7%BF%BB%E8%AF%91/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Java中==和equals的区别，equals和hashCode的区别</title>
+      <link>http://localhost:1313/post/java-concurrency/vs-equalsequals-vs-hashcode%E7%9A%84/</link>
+      <pubDate>Sat, 05 Aug 2017 00:10:11 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/java-concurrency/vs-equalsequals-vs-hashcode%E7%9A%84/</guid>
+      <description>Java中==和equals的区别，equals和hashCode的区别 [image:60177432-F479-464C-BE21-7B8F66A4F197-12665-00005FA8FAAF5FE4/1.png] 原 2015年07月21日 17:01:56 天天 阅读数 35525 版权声明：本文为博主原创文章</description>
+    </item>
+    
+    <item>
+      <title>[译] Java Volatile 关键字详解</title>
+      <link>http://localhost:1313/post/java-concurrency/java-volatile-keyword/</link>
+      <pubDate>Mon, 07 Mar 2016 18:03:18 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/java-concurrency/java-volatile-keyword/</guid>
+      <description>&lt;p&gt;本文翻译自 &lt;strong&gt;&lt;a href=&#34;http://tutorials.jenkov.com/java-concurrency/volatile.html&#34;&gt;Java Volatile Keyword&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Java关键字&lt;code&gt;volatile&lt;/code&gt;用于将一个Java变量标记为 &lt;em&gt;在主内中存储&lt;/em&gt; ，更准确的解释为：每次读取一个 &lt;em&gt;volatile&lt;/em&gt; 变量时将从电脑的主内存中读取而不是从CPU缓存中读取，每次对一个 &lt;em&gt;volatile&lt;/em&gt; 变量进行写操作时，将会写入到主内存中而不是写入到CPU缓存中。&lt;/p&gt;
+
+&lt;p&gt;事实上，从Java5之后，&lt;em&gt;volatile&lt;/em&gt; 关键字不仅仅可以用来确保 &lt;em&gt;volatile&lt;/em&gt; 变量是写入到主内存和从主内存读取数据，我会在下面的章节进行详细的介绍：&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
